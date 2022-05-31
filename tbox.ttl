@@ -2,16 +2,16 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+pj_sdm:CSE rdfs:subClassOf pj_sdm:Stock_data .
+
+pj_sdm:DSE rdfs:subClassOf pj_sdm:Stock_data .
+
 pj_sdm:close rdfs:label "close" ;
     rdfs:domain pj_sdm:Stock_data ;
     rdfs:range xsd:float .
 
 pj_sdm:company_name rdfs:label "company_name" ;
     rdfs:domain pj_sdm:Company ;
-    rdfs:range xsd:string .
-
-pj_sdm:country rdfs:label "country" ;
-    rdfs:domain pj_sdm:Stock_market ;
     rdfs:range xsd:string .
 
 pj_sdm:has_day rdfs:label "has_day" ;
@@ -69,10 +69,6 @@ pj_sdm:related_user rdfs:label "related_user" ;
 pj_sdm:sentiment_score rdfs:label "sentiment_score" ;
     rdfs:domain pj_sdm:Tweet ;
     rdfs:range xsd:float .
-
-pj_sdm:stock_market_name rdfs:label "stock_market_name" ;
-    rdfs:domain pj_sdm:Stock_market ;
-    rdfs:range xsd:string .
 
 pj_sdm:stock_pricing rdfs:label "stock_pricing" ;
     rdfs:domain pj_sdm:Company ;
