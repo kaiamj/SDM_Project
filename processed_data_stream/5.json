@@ -1,0 +1,104 @@
+[
+  {
+    "companies": "ZOMATO",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "@zomato #KKRAdmin was tweeting faster \ud83d\ude06",
+        "support_count": "508",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.08611111",
+        "text": "#Zomato, #Swiggy down in several cities as users complain of not being able to order food\n\n\"We're currently not accepting orders online\" says \n@zomato app\n\n@awscloud @swiggy_in @deepigoyal @NayantaraRai #StocksToWatch #Fooddelivery https://t.co/d2brEh42Hr",
+        "support_count": "28",
+        "polarity": "0.08611111"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.0",
+        "text": "Watch #IndiaIdeas April 7, Thu @8pm with @grrroy &amp; @Mukunda_Foods's @sabatsudeep getting @zomato-led funding &amp; @GetKappaX's @prashantodas, @NextMeet_Live's @pushpak_kypuram &amp; @invactHQ's @manishm talk 'Indian #Startups Metaversify'\n\n@Mayank23Agrawal @Chatty111Prasad @DDNewslive https://t.co/7wOiCUz0SE",
+        "support_count": "28",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "UPL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "-0.3017857",
+        "text": "@PaulBrandITV @Paul12269604 @Mike_Fabricant When was dinner and a couple of glasses of wine a party? I get dinner most days out, and often have a drink, I\u2019m certainly not partying every night. Like like a slice of cake in the office isn\u2019t a party. Journalists are so pathetic, so desperate for a story, they make it all up.",
+        "support_count": "243",
+        "polarity": "-0.3017857"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.0",
+        "text": "A moment of silence in memory of fallen Speaker of Uganda Parliament Rt. Hon. Jacob Oulanyah.\n\n@BrightStarsFC vs @Busogautdfc in the  @upl at Kavumba stadium https://t.co/nbsh86aDgo",
+        "support_count": "57",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "GLAND",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0575",
+        "text": "The #thyroid gland releases hormones that affect the heart. Too little thyroid hormone slows the #heart rate and may boost blood pressure and cholesterol levels, while too much can trigger abnormal heart rhythms and high blood pressure: https://t.co/YjVMBsJ5cF #HarvardHealth https://t.co/x3XjQJnFie",
+        "support_count": "295",
+        "polarity": "0.0575"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.071428575",
+        "text": "Hypothyroidism is when your thyroid gland doesn\u2019t make enough of certain key hormones. Symptoms to watch for: https://t.co/TfW9ndKeiv https://t.co/CU3pL2JAMp",
+        "support_count": "160",
+        "polarity": "0.071428575"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.071428575",
+        "text": "Hypothyroidism is when your thyroid gland doesn\u2019t make enough of certain key hormones. It can cause muscle and joint aches, as well as swelling and tenderness. https://t.co/5tOhY3fibN https://t.co/SjBD1vNWwc",
+        "support_count": "118",
+        "polarity": "0.071428575"
+      },
+      {
+        "rank": "4",
+        "sentiment": "0.325",
+        "text": "Sweating more and being sensitive to heat are notable symptoms of hyperthyroidism. Your thyroid gland controls your metabolism, so when it makes too much hormone, your body goes into overdrive.  https://t.co/9YonjI5X7r https://t.co/oEkgHlxmDV",
+        "support_count": "68",
+        "polarity": "0.325"
+      }
+    ]
+  },
+  {
+    "companies": "GAIL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.3",
+        "text": "#Happydalithistorymonth! As a we open a this years theme on caste, labor, and migration we honor #gailomvedt for all of her incredible insight and scholarship which brought global attention to dalit, our dignity and labor! https://t.co/RofkDzGdT9",
+        "support_count": "64",
+        "polarity": "0.3"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "CCI calls for DG investigation into cloud kitchens, price parity, entry barriers by Zomato and Swiggy\n\n#Zomato #Swiggy \n\nhttps://t.co/X98dMIIi1C",
+        "support_count": "26",
+        "polarity": "0.0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "companies": "ZOMATO",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.3",
+        "text": "I did something fun with @zomato! Check it out \ud83c\udf45\n\nhttps://t.co/ACdApBqSUa",
+        "support_count": "1120",
+        "polarity": "0.3"
+      },
+      {
+        "rank": "2",
+        "sentiment": "-0.35",
+        "text": "Luck been so bad in ZPL recently, only LORD Thakur can turntable it \u2764\ufe0f @zomato https://t.co/8ZmvKQPXeC",
+        "support_count": "724",
+        "polarity": "-0.35"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.0",
+        "text": "@zomato #KKRAdmin was tweeting faster \ud83d\ude06",
+        "support_count": "612",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "GLAND",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "Welp\u2014just got denied Paxlovid by my healthcare plan. Got told they will only give out to severely immunocompromised\u2014like organ transplant, chemotherapy, or HIV. So, not having a thymus gland doesn\u2019t qualify\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f. (\u201cT-cells\u201d officially called thymus-derived lymphocytes)\n\nMeanwhile: https://t.co/HmxDa1RO0u",
+        "support_count": "7169",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.21011905",
+        "text": "3) I do wish I had all of my right lung \ud83e\udec1 though - lost part of it when I was 17 years old. A thymus gland would give me more peace of mind too. But such is life. Many people have unseen immunocompromised/ risk factors. Let\u2019s all try to protect each other. \ud83d\ude4f https://t.co/AC0WrjA0VP",
+        "support_count": "3349",
+        "polarity": "0.21011905"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.11333334",
+        "text": "3) I lost my thymus gland when I was 17 years old. T-cell maturation mostly happens when you\u2019re young and in teenage years. So its borderline debatable how immunocompromised I am. But thymus can stay active until 40s. https://t.co/AC0WrjA0VP",
+        "support_count": "1173",
+        "polarity": "0.11333334"
+      },
+      {
+        "rank": "4",
+        "sentiment": "0.22857143",
+        "text": "The yellow-spotted rock hyrax can be a bit clingy. How so? Its feet are specially equipped for scaling rocky terrain, thanks to secretions from a special gland on the bottom of its hairless feet. Its moistened paws contract into a cup shape, creating a suction cup-like effect!\ud83d\udc3e https://t.co/kaxiZVJVpG",
+        "support_count": "364",
+        "polarity": "0.22857143"
+      },
+      {
+        "rank": "5",
+        "sentiment": "0.0575",
+        "text": "The #thyroid gland releases hormones that affect the heart. Too little thyroid hormone slows the #heart rate and may boost blood pressure and cholesterol levels, while too much can trigger abnormal heart rhythms and high blood pressure: https://t.co/YjVMBsJ5cF #HarvardHealth https://t.co/x3XjQJnFie",
+        "support_count": "295",
+        "polarity": "0.0575"
+      },
+      {
+        "rank": "6",
+        "sentiment": "0.071428575",
+        "text": "Hypothyroidism is when your thyroid gland doesn\u2019t make enough of certain key hormones. It can cause muscle and joint aches, as well as swelling and tenderness. https://t.co/xetPxHyuzu https://t.co/RlJ9CVA6EE",
+        "support_count": "98",
+        "polarity": "0.071428575"
+      }
+    ]
+  },
+  {
+    "companies": "GAIL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.3",
+        "text": "#Happydalithistorymonth! As a we open a this years theme on caste, labor, and migration we honor #gailomvedt for all of her incredible insight and scholarship which brought global attention to dalit, our dignity and labor! https://t.co/RofkDzGdT9",
+        "support_count": "64",
+        "polarity": "0.3"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "Peter Thiel says a \u201cfinance gerontocracy\u201d \u2014 Warren Buffett, Jamie Dimon and Larry Fink \u2014 is keeping #Bitcoin from reaching $100,000. Billionaire calls Berkshire CEO a \u2018sociopathic grandpa.\u2019 https://t.co/XlRn0jq9vn https://t.co/JQQVXLwtSk",
+        "support_count": "2358",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.0",
+        "text": "Bull United $PIT\n\n#TheMiamiBull #miamibull #Bitcoin #wallstreet #Bitcoin2022 #btc #bnb #bull #pitbulltoken #pitbull #bitcoinmiami2022 #finance https://t.co/qx7sONKZXF",
+        "support_count": "2029",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.25",
+        "text": "\ud83d\udea8 PSA \ud83d\udea8 \n\nBitcoin is inevitable\nBitcoin is for everyone\nR.I.P 1949 Finance \ud83e\udd96\n\nSpread the word (\ud83d\udd01) to unlock up to 200x Blinko (BTC) bonuses through the end of the day.\n\n + we're going to give one of y'all 1M sats \ud83e\udd2f. Be sure to hit follow so we can DM you. \n\nDeets below \ud83d\udc47",
+        "support_count": "864",
+        "polarity": "0.25"
+      }
+    ]
+  }
+]

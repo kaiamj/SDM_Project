@@ -1,0 +1,45 @@
+[
+  {
+    "companies": "IOC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0625",
+        "text": "You know we got to finish the menu with something sweet for the @bts_bighit event at @AllegiantStadm ! Presenting Green Tea Infused Soft Chocolate, Coconut Tapioca &amp; Dragon \ud83d\udc09 Fruit. Next time I'm doing a purple dessert for the #BTSARMY  \ud83d\udc9c \ud83d\ude4f #bts https://t.co/7gpC3irMNE",
+        "support_count": "3936",
+        "polarity": "0.0625"
+      }
+    ]
+  },
+  {
+    "companies": "GAIL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.1",
+        "text": "75 years old legend gail falkenberg keeps tennis alive https://t.co/lBfqi5Sm8c",
+        "support_count": "90",
+        "polarity": "0.1"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.27878788",
+        "text": "I\u2019m here with a new friend\u2026an amazing beekeeper near Chernihiv north of Kyiv! He lost 80 percent of his hives\u2026his house &amp; car shelled by bombs, but he still donates the honey to hospital, shelters\u2026anyone who needs. @WCKitchen is going to help him rebuild! #ChefsForUkraine \ud83c\uddfa\ud83c\udde6 https://t.co/qzNATvxz2j",
+        "support_count": "27813",
+        "polarity": "0.27878788"
+      },
+      {
+        "rank": "2",
+        "sentiment": "-0.017857144",
+        "text": "\ud83d\udca5 \"I\u2019m getting calls from these really large institutions that are building small buckets of #bitcoin.\" - Billionaire Orlando Bravo \ud83d\udc40",
+        "support_count": "3300",
+        "polarity": "-0.017857144"
+      }
+    ]
+  }
+]

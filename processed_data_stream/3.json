@@ -1,0 +1,38 @@
+[
+  {
+    "companies": "UPL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.22857143",
+        "text": "You get 1-2 great investment opportunities every couple years. The rest of the time is spent wondering if you will ever get another great opportunity again and convincing yourself to own mediocre opportunities while you wait. Don't rationalize your way into mediocre investments.",
+        "support_count": "1487",
+        "polarity": "0.22857143"
+      }
+    ]
+  },
+  {
+    "companies": "IOC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.22857143",
+        "text": "You get 1-2 great investment opportunities every couple years. The rest of the time is spent wondering if you will ever get another great opportunity again and convincing yourself to own mediocre opportunities while you wait. Don't rationalize your way into mediocre investments.",
+        "support_count": "1487",
+        "polarity": "0.22857143"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.9",
+        "text": "Ritchie Blackmore's Rainbow\nDebut Album\n1975 ads\n\n\u201cHis guitar helped sell 14 million records\u201d\n\n\u201cHe found the voice of Ronnie James Dio\u201d\n\n\u201cIt\u2019s time for every store to stock this album\u201d\n\nSong - The Temple Of The King was brilliantly covered by the Scorpions\n#ClassicRock #music https://t.co/aXpuaff23h",
+        "support_count": "110",
+        "polarity": "0.9"
+      }
+    ]
+  }
+]

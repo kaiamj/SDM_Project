@@ -1,0 +1,52 @@
+[
+  {
+    "companies": "ZOMATO",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "How #Twitter came together to help a #zomato delivery executive buy a bike\u2728\n\n@Adityaaa_Sharma https://t.co/j5ObyF0e10",
+        "support_count": "646",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.0",
+        "text": "#Zomato introduces a food quality policy for restaurants w.e.f April 18\n\n@zomato to disable restaurants found with 'severe food quality complaints' from its platform.\n\n@Shilparanipeta reports https://t.co/fNM3bbEHz9",
+        "support_count": "243",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "GAIL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.25",
+        "text": "the prime rib sandwich \u201cswimming in horse radish and mustard\u201d at hot stove club concession ($19+) is a fave for longtime raptors fans @SavelSells and @angelynsayshi\u2019s mama gail chong. https://t.co/LDiuJuN8gn https://t.co/5a6sqFqKGR",
+        "support_count": "14",
+        "polarity": "0.25"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "-0.11",
+        "text": "8 years of big talk has resulted in India having ONLY 8 DAYS of coal stocks.\n\nModi ji, stagflation is looming. Power cuts will crush small industries, leading to more job losses.\n\nSwitch off the bulldozers of hate and switch on the power plants! https://t.co/CiqP9SlHMx",
+        "support_count": "23916",
+        "polarity": "-0.11"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.0",
+        "text": "JUST IN: \ud83c\uddee\ud83c\uddf3 India\u2019s Union Minister of Finance says the biggest risk of #Bitcoin and #crypto is money laundering, terror financing.",
+        "support_count": "1842",
+        "polarity": "0.0"
+      }
+    ]
+  }
+]

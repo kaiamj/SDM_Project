@@ -1,0 +1,38 @@
+[
+  {
+    "companies": "ZOMATO",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.4",
+        "text": "If you\u2019re in #India - The next time you order a take away from @swiggy_in or @zomato spare a thought for the driver who delivered your dinner. A powerful and thought provoking watch from the brilliant @Anshul_Verma__ https://t.co/GLCSzlTwfe",
+        "support_count": "21",
+        "polarity": "0.4"
+      }
+    ]
+  },
+  {
+    "companies": "UPL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.6375",
+        "text": "#KGFChapter2: The happiness and excitement you experience after watching a great movie. :)\n\nI'm going to sleep for a couple of hours exactly like this. And then wake up and continue hyping it.\n\nHave a great day, folks. https://t.co/fKTuptqFwD",
+        "support_count": "111",
+        "polarity": "0.6375"
+      }
+    ]
+  },
+  {
+    "companies": "GAIL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.43333334",
+        "text": "WHKY: Members of @UNBWHockey have joined @joingailsfight\nIt's easy to do.\nThere are over 1000 Canadians waiting for stem cell transplant to save their life, including Gail. \nJoin @CanadasLifeline stem cell registry today at https://t.co/4SArTsgclX.\n#goredsgo https://t.co/ouX2cwGDBG",
+        "support_count": "60",
+        "polarity": "0.43333334"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "companies": "ZOMATO",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "-0.12222222",
+        "text": "Hey @zomato instead of pushing your hapless delivery partners into 10 minute orders while so many of them struggle on cycles in the heat, maybe at least streamline systems enough for normally timed deliveries . Every time I\u2019ve used you past few weeks massive delays, poor response",
+        "support_count": "320",
+        "polarity": "-0.12222222"
+      },
+      {
+        "rank": "2",
+        "sentiment": "-0.5",
+        "text": "urgent attention\ud83d\udea8\n\n@zomato @zomatocare \n\nI wouldn't want call to you this but you are an \"exploiter\"\n\nFrom not paying the delivery executive enough, promoting bizzare and menacing strategy like \"10 minutes delivery\" to ignoring the health and care of delivery executive.\n\n ++++",
+        "support_count": "212",
+        "polarity": "-0.5"
+      }
+    ]
+  },
+  {
+    "companies": "GLAND",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "Welp\u2014just got denied Paxlovid by my healthcare plan. Got told they will only give out to severely immunocompromised\u2014like organ transplant, chemotherapy, or HIV. So, not having a thymus gland doesn\u2019t qualify\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f. (\u201cT-cells\u201d officially called thymus-derived lymphocytes)\n\nMeanwhile: https://t.co/HmxDa1RO0u",
+        "support_count": "9185",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.21011905",
+        "text": "3) I do wish I had all of my right lung \ud83e\udec1 though - lost part of it when I was 17 years old. A thymus gland would give me more peace of mind too. But such is life. Many people have unseen immunocompromised/ risk factors. Let\u2019s all try to protect each other. \ud83d\ude4f https://t.co/AC0WrjA0VP",
+        "support_count": "3499",
+        "polarity": "0.21011905"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.11333334",
+        "text": "3) I lost my thymus gland when I was 17 years old. T-cell maturation mostly happens when you\u2019re young and in teenage years. So its borderline debatable how immunocompromised I am. But thymus can stay active until 40s. https://t.co/AC0WrjA0VP",
+        "support_count": "1469",
+        "polarity": "0.11333334"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "Peter Thiel says a \u201cfinance gerontocracy\u201d \u2014 Warren Buffett, Jamie Dimon and Larry Fink \u2014 is keeping #Bitcoin from reaching $100,000. Billionaire calls Berkshire CEO a \u2018sociopathic grandpa.\u2019 https://t.co/XlRn0jq9vn https://t.co/JQQVXLwtSk",
+        "support_count": "2464",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.25",
+        "text": "\ud83d\udea8 PSA \ud83d\udea8 \n\nBitcoin is inevitable\nBitcoin is for everyone\nR.I.P 1949 Finance \ud83e\udd96\n\nSpread the word (\ud83d\udd01) to unlock up to 200x Blinko (BTC) bonuses through the end of the day.\n\n + we're going to give one of y'all 1M sats \ud83e\udd2f. Be sure to hit follow so we can DM you. \n\nDeets below \ud83d\udc47",
+        "support_count": "910",
+        "polarity": "0.25"
+      }
+    ]
+  }
+]

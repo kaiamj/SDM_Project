@@ -1,0 +1,73 @@
+[
+  {
+    "companies": "HDFC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.1",
+        "text": "\ud83d\ude02\ud83d\ude2dBest meme on #hdfcbank and #HDFC merger so far! Via @vimsicle \n#RRR #Naatu https://t.co/rZ77K4Hvb2",
+        "support_count": "4019",
+        "polarity": "0.1"
+      },
+      {
+        "rank": "2",
+        "sentiment": "-0.072222225",
+        "text": "So much of social media, e-com, mails, e comm sites, apps - Netflix, Amazon, Hotstar, hdfc, youtube, axis, I have no more password combinations left in me\ud83e\udd14\ud83e\udd28\ud83d\ude47\u200d\u2642\ufe0f\ud83d\udcad https://t.co/wZmrZzWt6K",
+        "support_count": "604",
+        "polarity": "-0.072222225"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.0",
+        "text": "Why the Punjab Police service account has been given to @HDFC_Bank despite having number of PSU's. \n\nI request the CM @BhagwantMann &amp; @HarpalCheemaMLA to look into this.\n\n#hdfcbank",
+        "support_count": "288",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "4",
+        "sentiment": "0.2",
+        "text": "HDFC up 15% \ud83d\ude80\nHDFC Bank up 13% \ud83d\ude80\nHDFC Life up 7% \ud83d\ude80\n\nNifty at 18000 \ud83d\udd25 \n\nThanks to HDFC merger announcement \ud83e\udd1d\n\nHDFC group contributing 90% + of Nifty's 400 pt gain today \ud83d\udcb8\ud83d\udcb7\n\n#StockMarketindia #hdfcbank https://t.co/rK3Rv3Ri2J",
+        "support_count": "265",
+        "polarity": "0.2"
+      }
+    ]
+  },
+  {
+    "companies": "RELIANCE",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.38333333",
+        "text": "Boris Johnson\u2019s government has had 12 years to end the UK\u2019s reliance on imported fossil fuels. \n\nThey chose not to. \n\nLabour would turbocharge the shift to cheap, clean, home-grown renewables and nuclear energy. https://t.co/s8vyphIilp",
+        "support_count": "842",
+        "polarity": "0.38333333"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.0",
+        "text": "MSMEs are the backbone of Indian economy and will play a crucial role in accelerating India towards self-reliance. \n\nPM Shri @narendramodi\u2019s govt. has approved \u20b96,062.45 crore for rolling-out the World Bank assisted #RAMP scheme to revitalise the MSME sector. https://t.co/qkMwOCYS9M",
+        "support_count": "632",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.069142856",
+        "text": "The choice to reject Russian gas comes at a high cost. It will bring pain to many.\n\nIt is nevertheless the right choice.\n\nThis moment is an opportunity we must not miss to break our self-destructive reliance on fossil fuels\u2014and to stop bankrolling petrostate autocrats. https://t.co/negEYoPDCz",
+        "support_count": "117",
+        "polarity": "0.069142856"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.4",
+        "text": "The IOC will release 6,000 metric tonnes of diesel to #SriLanka as it pitches in to mitigate the spike in power cuts in the island nation, which is facing an unprecedented economic and energy crisis, officials in #Colombo said.\nhttps://t.co/rNK72swp2q",
+        "support_count": "137",
+        "polarity": "0.4"
+      }
+    ]
+  }
+]

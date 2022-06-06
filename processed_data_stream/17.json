@@ -1,0 +1,52 @@
+[
+  {
+    "companies": "UPL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.1375",
+        "text": "Upon completion of Balikatan 22, military vehicles from the Army Prepositioned Stock 3, military vehicles assigned to the 402nd Army Field Support Brigade were successfully uploaded to the U.S. Navy Ship Red Cloud at Subic Bay, Philippines April 11, 2022.\n@yourphilarmy @USArmy https://t.co/0TTY6VBXzu",
+        "support_count": "135",
+        "polarity": "0.1375"
+      }
+    ]
+  },
+  {
+    "companies": "GLAND",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "-0.2",
+        "text": "\u201cUK Government funds designed to replace #EU grants will leave Scotland, Wales, Cornwall and the north of England billions of pounds worse off while increasing funding to wealthier southern areas of England.\u201d #BrexitReality  https://t.co/lx2MxKRdHg",
+        "support_count": "712",
+        "polarity": "-0.2"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.2857143",
+        "text": "I\u2019m sending 5 people money right now rt + post your cashapp, PayPal, Bitcoin now",
+        "support_count": "2477",
+        "polarity": "0.2857143"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.25",
+        "text": "21Shares is set to become the first issuer to launch a spot #bitcoin ETF in Australia after Cosmos announced its de-facto fund of funds.\n\n@namcios reports:\n\nhttps://t.co/WEbRXrcvzD",
+        "support_count": "218",
+        "polarity": "0.25"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.1",
+        "text": "And when will we REALLY start talking about what @terra_money is doing buying up #bitcoin. \n\nIt\u2019s a big deal. \n\n$LUNA $UST",
+        "support_count": "196",
+        "polarity": "0.1"
+      }
+    ]
+  }
+]
