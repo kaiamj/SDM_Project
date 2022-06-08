@@ -1,0 +1,78 @@
+[
+  {
+    "companies": "ZOMATO",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.2125",
+        "text": "Dear @zomato, forget 10 mins delivery promises, have your delivery partners learn how to speak to female customers. \n\n\u201cChu****\u201d isn\u2019t exactly the kind of language training you should be imparting. \n\nStart there. You can get to 10 mins delivery promises much later. \n\n@deepigoyal",
+        "support_count": "124",
+        "polarity": "0.2125"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.13636364",
+        "text": "LIVE | Antitrust regulator CCI prima facie finds a case of misconduct by @swiggy_in &amp; @zomato, and has ordered an investigation. The case was filed by the NRAI. Here is NRAI president Kabir Suri \ud83d\udc47\n\n@NayantaraRai @NRAI_India @KabirSuriAzure @CCI_India https://t.co/CxXKjcWtVB",
+        "support_count": "22",
+        "polarity": "0.13636364"
+      }
+    ]
+  },
+  {
+    "companies": "GLAND",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0575",
+        "text": "The #thyroid gland releases hormones that affect the heart. Too little thyroid hormone slows the #heart rate and may boost blood pressure and cholesterol levels, while too much can trigger abnormal heart rhythms and high blood pressure: https://t.co/YjVMBsJ5cF #HarvardHealth https://t.co/x3XjQJnFie",
+        "support_count": "292",
+        "polarity": "0.0575"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.071428575",
+        "text": "Hypothyroidism is when your thyroid gland doesn\u2019t make enough of certain key hormones. Symptoms to watch for: https://t.co/TfW9ndKeiv https://t.co/CU3pL2JAMp",
+        "support_count": "156",
+        "polarity": "0.071428575"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.071428575",
+        "text": "Hypothyroidism is when your thyroid gland doesn\u2019t make enough of certain key hormones. It can cause muscle and joint aches, as well as swelling and tenderness. https://t.co/5tOhY3fibN https://t.co/SjBD1vNWwc",
+        "support_count": "118",
+        "polarity": "0.071428575"
+      },
+      {
+        "rank": "4",
+        "sentiment": "0.325",
+        "text": "Sweating more and being sensitive to heat are notable symptoms of hyperthyroidism. Your thyroid gland controls your metabolism, so when it makes too much hormone, your body goes into overdrive.  https://t.co/9YonjI5X7r https://t.co/oEkgHlxmDV",
+        "support_count": "68",
+        "polarity": "0.325"
+      }
+    ]
+  },
+  {
+    "companies": "GAIL",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.3",
+        "text": "#Happydalithistorymonth! As a we open a this years theme on caste, labor, and migration we honor #gailomvedt for all of her incredible insight and scholarship which brought global attention to dalit, our dignity and labor! https://t.co/RofkDzGdT9",
+        "support_count": "64",
+        "polarity": "0.3"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.045454547",
+        "text": "NEW \ud83d\udca5 UK Finance Minister: We see \u201cenormous potential\u201d in #Bitcoin and crypto",
+        "support_count": "5320",
+        "polarity": "0.045454547"
+      }
+    ]
+  }
+]

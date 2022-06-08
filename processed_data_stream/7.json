@@ -1,0 +1,80 @@
+[
+  {
+    "companies": "HDFC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.1",
+        "text": "\ud83d\ude02\ud83d\ude2dBest meme on #hdfcbank and #HDFC merger so far! Via @vimsicle \n#RRR #Naatu https://t.co/rZ77K4Hvb2",
+        "support_count": "4268",
+        "polarity": "0.1"
+      },
+      {
+        "rank": "2",
+        "sentiment": "-0.072222225",
+        "text": "So much of social media, e-com, mails, e comm sites, apps - Netflix, Amazon, Hotstar, hdfc, youtube, axis, I have no more password combinations left in me\ud83e\udd14\ud83e\udd28\ud83d\ude47\u200d\u2642\ufe0f\ud83d\udcad https://t.co/wZmrZzWt6K",
+        "support_count": "601",
+        "polarity": "-0.072222225"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.0",
+        "text": "Why the Punjab Police service account has been given to @HDFC_Bank despite having number of PSU's. \n\nI request the CM @BhagwantMann &amp; @HarpalCheemaMLA to look into this.\n\n#hdfcbank",
+        "support_count": "298",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "RELIANCE",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.054166667",
+        "text": "The EW suite developed by #DRDO will be produced by #BEL, Hyderabad for #IAF in a recently concluded contract. A major boost to the spirit of #AatmanirbharBharat and realization of journey towards self reliance.\n@PMOIndia @DefenceMinIndia @SpokespersonMoD",
+        "support_count": "1778",
+        "polarity": "0.054166667"
+      },
+      {
+        "rank": "2",
+        "sentiment": "-0.041666668",
+        "text": "There are many possible critiques of Pakistan\u2019s reliance on IMF/foreign aid, but we are outraging over how mere admission of such dependence insults our national pride\n\nFamily, community, nation - our destructive obsession with defending \u201cghairat\u201d is frighteningly easy to exploit",
+        "support_count": "716",
+        "polarity": "-0.041666668"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.0",
+        "text": "Demand Destruction happening now in the Telecom space as price elasticity of demand kicks in.\n\nreliance Jio lost 2 crore customers in the last two months after a steep tariff hike. https://t.co/QbiErtUrAB",
+        "support_count": "677",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "4",
+        "sentiment": "0.16666667",
+        "text": "When I told German politicians and officials reliance on Russian gas was a catastrophic error answer invariably was: \u201cWe know Russia better than you\u201d",
+        "support_count": "511",
+        "polarity": "0.16666667"
+      },
+      {
+        "rank": "5",
+        "sentiment": "0.1",
+        "text": "This important stride in healthcare sector truly symbolizes Hon'ble PM Shri Narendra Modi's vision of self-reliance, achieving excellence in modern health facilities for remote locations and reducing urban-rural divide to deliver services at people's doorstep.",
+        "support_count": "165",
+        "polarity": "0.1"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.4",
+        "text": "The IOC will release 6,000 metric tonnes of diesel to #SriLanka as it pitches in to mitigate the spike in power cuts in the island nation, which is facing an unprecedented economic and energy crisis, officials in #Colombo said.\nhttps://t.co/rNK72swp2q",
+        "support_count": "137",
+        "polarity": "0.4"
+      }
+    ]
+  }
+]

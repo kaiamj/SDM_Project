@@ -1,0 +1,71 @@
+[
+  {
+    "companies": "ZOMATO",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "#Zomato introduces a food quality policy for restaurants w.e.f April 18\n\n@zomato to disable restaurants found with 'severe food quality complaints' from its platform.\n\n@Shilparanipeta reports https://t.co/fNM3bbEHz9",
+        "support_count": "243",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "RELIANCE",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "Turkey and Deutsche Bank are in the final stages of talks for a pioneering $1.1 billion loan to finance LNG purchases that will reduce the country\u2019s reliance on Russian imports, sources say https://t.co/WnWVaSs1ob",
+        "support_count": "89",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "GLAND",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "The #hypothalamus communicates with various brain regions and with the pituitary gland and thereby influences multiple neuroendocrine and autonomic functions https://t.co/D6ncUIy2mS https://t.co/IwjMadTCeU",
+        "support_count": "17",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "2",
+        "sentiment": "0.0",
+        "text": "Generation of 3D lacrimal-gland-like tissue organoids from human ES cells and hiPS cells. #NBThighlight https://t.co/fjs3oOdMjT",
+        "support_count": "16",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "-0.11",
+        "text": "8 years of big talk has resulted in India having ONLY 8 DAYS of coal stocks.\n\nModi ji, stagflation is looming. Power cuts will crush small industries, leading to more job losses.\n\nSwitch off the bulldozers of hate and switch on the power plants! https://t.co/CiqP9SlHMx",
+        "support_count": "25236",
+        "polarity": "-0.11"
+      },
+      {
+        "rank": "2",
+        "sentiment": "-0.0625",
+        "text": "JUST IN: \ud83c\uddf8\ud83c\uddfb Former finance minister in El Salvador says the #Bitcoin bonds are delayed due to a lack of interest among investors.",
+        "support_count": "1932",
+        "polarity": "-0.0625"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.0",
+        "text": "\ud83c\uddec\ud83c\udde7\ud83c\uddee\ud83c\uddf3 business collaborations are delivering jobs, growth &amp; opportunities for people in the UK and India, and this will only go from strength to strength in the coming years.\n@switchEVglobal, @Mphasis, @Prodapt, @tvsmotorcompany, @TVSSCS, @Propertyshare3, @BYJUS, @apollotyres",
+        "support_count": "20",
+        "polarity": "0.0"
+      }
+    ]
+  }
+]

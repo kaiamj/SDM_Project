@@ -1,0 +1,59 @@
+[
+  {
+    "companies": "ZOMATO",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "How #Twitter came together to help a #zomato delivery executive buy a bike\u2728\n\n@Adityaaa_Sharma https://t.co/j5ObyF0e10",
+        "support_count": "650",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "2",
+        "sentiment": "-0.12222222",
+        "text": "Hey @zomato instead of pushing your hapless delivery partners into 10 minute orders while so many of them struggle on cycles in the heat, maybe at least streamline systems enough for normally timed deliveries . Every time I\u2019ve used you past few weeks massive delays, poor response",
+        "support_count": "320",
+        "polarity": "-0.12222222"
+      },
+      {
+        "rank": "3",
+        "sentiment": "0.0",
+        "text": "#Zomato introduces a food quality policy for restaurants w.e.f April 18\n\n@zomato to disable restaurants found with 'severe food quality complaints' from its platform.\n\n@Shilparanipeta reports https://t.co/fNM3bbEHz9",
+        "support_count": "244",
+        "polarity": "0.0"
+      },
+      {
+        "rank": "4",
+        "sentiment": "-0.5",
+        "text": "urgent attention\ud83d\udea8\n\n@zomato @zomatocare \n\nI wouldn't want call to you this but you are an \"exploiter\"\n\nFrom not paying the delivery executive enough, promoting bizzare and menacing strategy like \"10 minutes delivery\" to ignoring the health and care of delivery executive.\n\n ++++",
+        "support_count": "212",
+        "polarity": "-0.5"
+      }
+    ]
+  },
+  {
+    "companies": "MPHASIS",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "0.0",
+        "text": "@FEGtoken @joincoinio FEG is focused on reshaping and evolving how decentralized finance (DeFi) works with an emphasis on passive income, security, and accessibility.\nhttps://t.co/TkNJfLFO23",
+        "support_count": "1050",
+        "polarity": "0.0"
+      }
+    ]
+  },
+  {
+    "companies": "ITC",
+    "top_tweets": [
+      {
+        "rank": "1",
+        "sentiment": "-0.071428575",
+        "text": "A crisis of confidence in countries, currencies, banks, &amp; conventional finance is driving an explosion of interest in #bitcoin and the crypto-economy. @cvpayne &amp; I discuss the ongoing digital asset debates in the finance &amp; technology community and why enthusiasm is surging. https://t.co/VK8uGIgOiF",
+        "support_count": "7469",
+        "polarity": "-0.071428575"
+      }
+    ]
+  }
+]
