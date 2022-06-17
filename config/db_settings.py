@@ -1,4 +1,4 @@
 # define username and password
-USER = "kainaat"
-PASSWORD = "bdm"
+USER = "himanshudce"
+PASSWORD = "sdm"
 DATABASE = "sdmdb"
